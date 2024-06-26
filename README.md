@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ra-offical&label=Profile%20views&color=0e75b6&style=flat" alt="ra-offical" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rashid-ameer&label=Profile%20views&color=0e75b6&style=flat" alt="rashid-ameer" /> </p>
 
 
   
@@ -84,8 +84,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra-offical&show_icons=true&locale=en" alt="ra-offical" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashid-ameer&show_icons=true&locale=en" alt="rashid-ameer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra-offical&" alt="ra-offical" /></p>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ra-offical)](https://github.com/ra-offical/github-profile-trophy) -->
-<p align="left"> <a href="https://github.com/ra-offical/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra-offical" alt="ra-offical" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashid-ameer&" alt="rashid-ameer" /></p>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rashid-ameer)](https://github.com/rashid-ameer/github-profile-trophy) -->
+<p align="left"> <a href="https://github.com/rashid-ameer/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashid-ameer" alt="rashid-ameer" /></a> </p>
