@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rashid Ameer</h1>
-<h3 align="center">A passionate and dynamic frontend developer from Pakistan</h3>
-
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rashid-ameer/rashid-ameer/main/banner.gif">
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rashid-ameer&label=Profile%20views&color=0e75b6&style=flat" alt="rashid-ameer" /> </p>
-
-
+<h3 align="center">I am a Frontend developer.</h3>
   
-- 🌱 I’m currently learning **Beckend: Node.js**
+- 🌱 I’m currently looking for frontend developer job. While I am still looking, I am making my own frontend projects so that I can make more and more practice and learn about new technologies. 
 
-- 💬 Ask me about **Javascript, React js**
+- 💬 Ask me about **Javascript, React, Next js**
 
 - 📫 How to reach me **r.ameer.offical@gmail.com**
 
@@ -18,25 +12,23 @@
 
 
 ### Technologies I am working with:
-    👉  Front End
-            HTML5
-            CSS ======> SASS Framework
-            Tailwind Css
-            Javascript
-                React js with Redux Toolkit
-		Next.js
-  	Typescript
-    👉  Databases
-	    * MySQL Community Server
- 	    * MongoDB Server for NoSQL Document-based Projects
+	👉  Front End
+			- HTML5
+			- CSS
+			- Tailwind Css
+   			- Typescript
+			- Javascript
+  			- React js
+	 		- Next.js
+	 		- Zustand
+			- Redux Toolkit
     👉  Version Control
-            Github
+            - Github
     👉  Development IDEs
-            JetBrains IntelliJ Idea (Community Edition)
-            Visual Studio Code
+			- JetBrains IntelliJ Idea (Community Edition)
+			- Visual Studio Code
     👉  APIs Testing Tools
-            Postman Client
-
+			- Postman Client
 
 <div>
 <h3 align="left">Connect with me:</h3>
