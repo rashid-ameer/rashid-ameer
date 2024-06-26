@@ -16,14 +16,14 @@
 			- HTML5
 			- CSS
 			- Tailwind Css
-   			- Typescript
-			- Javascript
+   			- Javascript
+			- Typescript
   			- React js
 	 		- Next.js
 	 		- Zustand
 			- Redux Toolkit
     👉  Version Control
-            - Github
+			- Github
     👉  Development IDEs
 			- JetBrains IntelliJ Idea (Community Edition)
 			- Visual Studio Code
