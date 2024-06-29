@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashid Ameer</h1>
 <h3 align="center">I am a Frontend developer.</h3>
   
-- 🌱 I’m currently looking for frontend developer job. While I am still looking, I am making my own frontend projects so that I can make more and more practice and learn about new technologies. 
+- 🌱 I am currently seeking a frontend developer position. While I continue my search, I am working on my frontend projects to gain more practice and explore new technologies.
 
 - 💬 Ask me about **Javascript, React, Next js**
 
