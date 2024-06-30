@@ -24,6 +24,7 @@
 			- Redux Toolkit
     👉  Version Control
 			- Github
+   			- Git
     👉  Development IDEs
 			- JetBrains IntelliJ Idea (Community Edition)
 			- Visual Studio Code
