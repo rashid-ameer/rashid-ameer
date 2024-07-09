@@ -16,6 +16,7 @@
 			- HTML5
 			- CSS
 			- Tailwind Css
+   			- Shadcn UI
    			- Javascript
 			- Typescript
   			- React js
