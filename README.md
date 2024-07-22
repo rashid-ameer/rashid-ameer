@@ -8,7 +8,7 @@
 - 📫 How to reach me **r.ameer.offical@gmail.com**
 
 ### Portfolio    
-[Visit Portfolio](https://rashidameer.netlify.app/)
+[Visit Portfolio](https://rashidameer.vercel.app/)
 
 
 ### Technologies I am working with:
