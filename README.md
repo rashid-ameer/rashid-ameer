@@ -23,6 +23,7 @@
 	 		- Next.js
 	 		- Zustand
 			- Redux Toolkit
+
     👉  Version Control
 			- Github
    			- Git
@@ -31,6 +32,7 @@
 			- Visual Studio Code
     👉  APIs Testing Tools
 			- Postman Client
+   			- Thunder Client
 
 <div>
 <h3 align="left">Connect with me:</h3>
