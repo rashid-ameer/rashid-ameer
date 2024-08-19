@@ -23,6 +23,7 @@
 	 		- Next.js
 	 		- Zustand
 			- Redux Toolkit
+   			- Framer Motion
 
     👉  Version Control
 			- Github
