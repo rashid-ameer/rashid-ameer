@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashid Ameer</h1>
 <h3 align="center">I am a Frontend developer.</h3>
   
-- 🌱 I am currently seeking a frontend developer position. While I continue my search, I am working on my frontend projects to gain more practice and explore new technologies.
 
 - 💬 Ask me about **Javascript, React, Next js**
 
@@ -23,13 +22,12 @@
 	 		- Next.js
 	 		- Zustand
 			- Redux Toolkit
+   			- Node js
+      			- Express js
 
     👉  Version Control
 			- Github
    			- Git
-    👉  Development IDEs
-			- JetBrains IntelliJ Idea (Community Edition)
-			- Visual Studio Code
     👉  APIs Testing Tools
 			- Postman Client
    			- Thunder Client
