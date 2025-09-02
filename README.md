@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rashid Ameer</h1>
-<h3 align="center">I am a Frontend developer.</h3>
+<h3 align="center">I am a Software Engineer.</h3>
   
 
 - 💬 Ask me about **Javascript, React, Next js**
 
-- 📫 How to reach me **r.ameer.offical@gmail.com**
-
-### Portfolio    
-[Visit Portfolio](https://rashidameer.vercel.app/)
+- 📫 How to reach me **rashidameer.dev@gmail.com**
 
 
 ### Technologies I am working with:
@@ -24,6 +21,9 @@
 			- Redux Toolkit
    			- Node js
       			- Express js
+		 	- Docker
+			- AWS (EC2, S3)
+   			- Kubernetes
 
     👉  Version Control
 			- Github
