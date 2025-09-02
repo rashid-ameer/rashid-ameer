@@ -8,7 +8,7 @@
 
 
 ### Technologies I am working with:
-	👉  Front End
+	👉  Technologies
 			- HTML5
 			- CSS
 			- Tailwind Css
