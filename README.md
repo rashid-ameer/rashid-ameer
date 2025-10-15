@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashid Ameer</h1>
-<h3 align="center">I am a Software Engineer.</h3>
+<h3 align="center">I am a Fullstack Developer.</h3>
   
 
-- 💬 Ask me about **Javascript, React, Next js**
+- 💬 Ask me about **Javascript, React, Next js, Vue js**
 
 - 📫 How to reach me **rashidameer.dev@gmail.com**
 
@@ -17,6 +17,7 @@
 			- Typescript
   			- React js
 	 		- Next.js
+			- Vue js
 	 		- Zustand
 			- Redux Toolkit
    			- Node js
