@@ -5,16 +5,15 @@
 
 - 💬 Ask me about **JavaScript, React, Next.js, Vue.js**
 - 📫 How to reach me: **rashidameer.dev@gmail.com**
-- 🌱 Currently improving my skills in **frontend architecture & performance optimization**
-- ⚡ Fun fact: I love turning complex problems into clean, elegant UIs
+- 🌱 Currently improving my skills in **Frontend architecture & performance optimization. Beckend with Node.js and PostgreSQL**
 
 ---
 
 <h3 align="left">🛠️ Technologies I Work With</h3>
 
-- **Frontend:** HTML5, CSS3, Tailwind CSS, Shadcn UI, JavaScript (ES6+), TypeScript, React.js, Next.js, Vue.js, Zustand, Redux Toolkit  
-- **Backend:** Node.js, Express.js  
-- **DevOps:** Docker, AWS (EC2, S3), Kubernetes  
+- **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Vue.js, Next.js, Redux, Zustand, React Query, Context API, Tailwind CSS, Bootstrap, Shadcn UI, Ant Design
+- **Backend:** Node.js, Express.js, Redis, PostgreSQL  
+- **DevOps:** Docker, AWS (EC2, S3)  
 - **Tools:** Git, GitHub, Postman, Thunder Client  
 - **Other:** Agile Development, RESTful APIs
 
